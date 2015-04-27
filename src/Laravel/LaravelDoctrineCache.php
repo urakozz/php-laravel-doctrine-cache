@@ -64,7 +64,10 @@ class LaravelDoctrineCache implements Cache
      */
     public function save($id, $data, $lifeTime = 0)
     {
-        return $this->laravelCache->add($id, $data, $lifeTime);
+        $lifeTime = max(0, $lifeTime);
+        return $lifeTime
+            ? $this->laravelCache->add($id, $data, $lifeTime)
+            : $this->laravelCache->forever($id, $data);
     }
 
     /**
