@@ -37,7 +37,7 @@ class LaravelDoctrineCache implements Cache
      */
     public function fetch($id)
     {
-        return $this->laravelCache->get($id);
+        return $this->laravelCache->get($id, false);
     }
 
     /**
