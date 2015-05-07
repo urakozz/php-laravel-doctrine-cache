@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Doctrine Cache Factory for Laravel 5",
     "keywords": ["Laravel", "Doctrine", "Cache"],
-    "homepage": "http://github.com/urakozz/php-laravel-doctrine-cache",
+    "homepage": "https://github.com/urakozz/php-laravel-doctrine-cache",
     "license": "MIT",
 
     "authors": [
