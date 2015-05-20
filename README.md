@@ -13,7 +13,7 @@ so it's fully compatible with all libraries that are requiring Doctrine Cache su
 
 ### How does it work
 
-```LaravelDoctrineCache``` is using cache from app container : ```php Container::getInstance()->offsetGet('cache')``` and points ```Doctrine\Common\Cache\Cache``` methods to suitable Laravel Cache methods
+```LaravelDoctrineCache``` is using cache from app container : ```Container::getInstance()->offsetGet('cache')``` and points ```Doctrine\Common\Cache\Cache``` methods to suitable Laravel Cache methods
 
 ### Examples
 ```php
