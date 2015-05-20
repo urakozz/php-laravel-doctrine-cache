@@ -1,5 +1,9 @@
 # Laravel Docrtine Cache Proxy
 
+[![Latest Stable Version](https://poser.pugx.org/kozz/laravel-doctrine-cache/v/stable.svg)](https://packagist.org/packages/kozz/laravel-doctrine-cache)
+[![Latest Unstable Version](https://poser.pugx.org/kozz/laravel-doctrine-cache/v/unstable.svg)](https://packagist.org/packages/kozz/laravel-doctrine-cache)
+[![License](http://img.shields.io/packagist/l/kozz/laravel-doctrine-cache.svg)](https://packagist.org/packages/kozz/laravel-doctrine-cache)
+
 Laravel Proxy to Doctrine Cache
 
 ### When to use
