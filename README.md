@@ -1,5 +1,8 @@
 # Laravel Docrtine Cache Proxy
 
+[![Build Status](https://travis-ci.org/urakozz/php-laravel-docrtine-cache.svg?branch=master)](https://travis-ci.org/urakozz/php-laravel-docrtine-cache)
+[![Code Climate](https://codeclimate.com/github/urakozz/php-laravel-docrtine-cache/badges/gpa.svg)](https://codeclimate.com/github/urakozz/php-laravel-docrtine-cache)
+[![Test Coverage](https://codeclimate.com/github/urakozz/php-laravel-docrtine-cache/badges/coverage.svg)](https://codeclimate.com/github/urakozz/php-laravel-docrtine-cache/coverage)
 [![Latest Stable Version](https://poser.pugx.org/kozz/laravel-doctrine-cache/v/stable.svg)](https://packagist.org/packages/kozz/laravel-doctrine-cache)
 [![Latest Unstable Version](https://poser.pugx.org/kozz/laravel-doctrine-cache/v/unstable.svg)](https://packagist.org/packages/kozz/laravel-doctrine-cache)
 [![License](http://img.shields.io/packagist/l/kozz/laravel-doctrine-cache.svg)](https://packagist.org/packages/kozz/laravel-doctrine-cache)
